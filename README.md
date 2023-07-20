@@ -1,12 +1,14 @@
-# fkeys-hotkeys
-Set FKEYS at hotkeys with num and caps lock
+# FKEYS WITH HOTKEYS
+## Set FKEYS at hotkeys with num and caps lock
 
-To press fkeys use capslock+1 capslock+2 capslock+3 etc...
-                          for F1 F2 F3 etc...
+To press fkeys use __capslock+1 capslock+2 capslock+3__ etc...
+                          for __F1 F2 F3__ etc...
+                          
+you can press Alt with this combo of keys to press something like alt + capslock + 4 that return alt+f4
 
-the script is set for azerty keyboards, tu configure it for qwerty keyboard change main.pyw
-to set 
-
+### The script is set for azerty keyboards, __to configure it for qwerty keyboard change main.pyw
+__to set__
+```
 key_mapping = {
     '&': keyboard.Key.f1,
     'é': keyboard.Key.f2,
@@ -21,9 +23,9 @@ key_mapping = {
     ')': keyboard.Key.f11,
     '=': keyboard.Key.f12,
 }
-
-with
-
+```
+__with__
+```
 key_mapping = {
     '1': keyboard.Key.f1,
     '2': keyboard.Key.f2,
@@ -38,3 +40,5 @@ key_mapping = {
     ')': keyboard.Key.f11,
     '-': keyboard.Key.f12,
 }
+```
+or other keys
