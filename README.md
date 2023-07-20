@@ -1,4 +1,21 @@
 # FKEYS WITH HOTKEYS
+
+## Installation
+```
+git clone https://github.com/iliS10/fkeys-hotkeys.git
+```
+```
+cd fkeys-hotkeys
+```
+```
+pip install pynput
+pip install pystray
+pip install pillow
+```
+For __execute the script__ you can directly __click on the main.pyw__
+
+And __press "Exit"__ in your taskbar __to close it__
+
 ## Set FKEYS at hotkeys with num and caps lock
 
 To press fkeys use __capslock+1 capslock+2 capslock+3__ etc...
