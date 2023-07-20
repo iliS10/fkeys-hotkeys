@@ -12,7 +12,7 @@ pip install pynput
 pip install pystray
 pip install pillow
 ```
-For __execute the script__ you can directly __click on the main.pyw__
+For __execute the script__ you can directly __click on main.pyw file__
 
 And __press "Exit"__ in your taskbar __to close it__
 
