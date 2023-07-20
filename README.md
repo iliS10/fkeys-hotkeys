@@ -4,7 +4,7 @@
 To press fkeys use __capslock+1 capslock+2 capslock+3__ etc...
                           for __F1 F2 F3__ etc...
                           
-you can press __Alt__ with this combo of keys to press something like __alt + capslock + 4__ that return __alt+f4__
+You can press __Alt__ with this combo of keys to press something like __alt + capslock + 4__ that return __alt+f4__
 
 ### The script is set for azerty keyboards, __to configure it for qwerty keyboard change main.pyw
 __to set__
