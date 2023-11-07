@@ -8,9 +8,7 @@ git clone https://github.com/iliS10/fkeys-hotkeys.git
 cd fkeys-hotkeys
 ```
 ```
-pip install pynput
-pip install pystray
-pip install pillow
+pip install pillow pynput pystray
 ```
 For __execute the script__ you can directly __click on main.pyw file__
 
